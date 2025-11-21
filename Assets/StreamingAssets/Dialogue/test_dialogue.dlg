@@ -1,0 +1,61 @@
+//This is the node that starts the test dialogue
+#Node:TestDialogue
+This is some text.  //Line 0
+Yasuda|"This is some text with a name." //Line 1
+
+//Variables in text are saved in a static Dictionary that can be referenced in the game's code
+var textFileNumber = 1
+
+//All decision trees need a StartDecision and EndDecision marker
+#StartDecision
+    //This branch shows how text can be highlighted
+    -Show important text
+        Yasuda|"Mayhaps this will work for a [emp]visual novel system.[/emp]"   //Line 2
+        #StartDecision
+            -Yeah you're right
+                Yasuda|"Glad to know that you share the same view." //Line 3
+            -No that's wrong
+                Seiko|"Everyone's entitled to their own opinions!"  //Line 4
+        #EndDecision
+
+    //This branch shows how the camera can move between speakers
+    -Move to Seiko
+        //All conditional blocks start with an if statement and are ended with an endif marker
+        if(textFileNumber > 0)
+            Seiko|"This is all parsed through {textFileNumber} text file."  //Line 5
+        else
+            Seiko|"I guess this isn't using any text file, which would be a lie, I guess."  //Line 6
+        endif
+
+    //This branch shows how the player's sprite is shown in a separate camera on the side of the screen
+    -Show the player speaking
+        [ShowPlayer]    //Line 7
+        Player|"This is what happens when the player speaks."   //Line 8
+        [HidePlayer]    //Line 9
+#EndDecision
+
+Yasuda|"I am creating a robust system for all kinds of scenarios."  //Line 10
+
+[GoTo=AnotherNode]  //Line 11
+
+Yasuda|"Welcome back to the main node." //Line 12
+
+//The name used in the CG command is the image file name
+[CG=black]  //Line 13
+Yasuda|"This is an example of a CG being shown."    //Line 14
+[HideCG]    //Line 15
+#EndNode
+
+#Node:AnotherNode
+Yasuda|"We have just gone to another node." //Line 0
+Seiko|"Don't worry. We'll go back shortly." //Line 1
+[GoTo=AThirdNode]   //Line 2
+#EndNode
+
+#Node:AThirdNode
+Yasuda|"There's another node here? Interesting."    //Line 0
+#EndNode
+
+#Node:FinalNode
+Transferring to final node...   //Line 0
+#EndNode

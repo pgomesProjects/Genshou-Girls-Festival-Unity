@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47eca9b4c84677e4bb143c9961e8d045, type: 3}
+  m_Name: Holly
+  m_EditorClassIdentifier: 
+  name: Holly Rivers
+  powerTitle: Student Of Phasing
+  image: {fileID: 21300000, guid: 43a611b38a915354eb1f4a94649686ba, type: 3}
+  height: 178
+  weight: 82.9
+  birthday: March 20
+  classification: Destructive
+  subClassifications: Class B
+  likes: Karaoke Bars
+  dislikes: Ugly Sweaters
+  biography: "Holly is a young woman recently accepted to Hokkaido Ultra Dimensional
+    Academy. She can phase through any physical object: walls, desks, and even floors.
+    Due to the nature of the power being hard to maintain, she is classified as a
+    Destructive. Society casts shame on Destructives for having such powers, treating
+    them as lesser beings for it. Therefore, she\u2019s never had many people she
+    would consider friends and occasionally gets stumped when trying to think about
+    the right things to say. Despite her desire to hole up in her room for the foreseeable
+    future, the scouts of HUDA and her mother have convinced her to at least give
+    it a shot. To Holly, this opportunity will determine whether she finds a way
+    to assimilate into society normally or cements her desire to shut herself from
+    the world for the rest of her life."

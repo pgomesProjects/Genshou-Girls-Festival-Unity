@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 119854ec0de04924e8cf12fc49af09b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3113841234540775196
+    second: scream_0
+  - first:
+      213: 527860882343993599
+    second: scream_1
+  - first:
+      213: 6270564584505472912
+    second: scream_2
+  - first:
+      213: -8512684210839711081
+    second: scream_3
+  - first:
+      213: 6081660224303691168
+    second: scream_4
+  - first:
+      213: -1507965157169705073
+    second: scream_5
+  - first:
+      213: -7109398063017045064
+    second: scream_6
+  - first:
+      213: -7126286773563125074
+    second: scream_7
+  - first:
+      213: 3476353783681556635
+    second: scream_8
+  - first:
+      213: 7032952361631529064
+    second: scream_9
+  - first:
+      213: 2327840290521087189
+    second: scream_10
+  - first:
+      213: -1349662456980291011
+    second: scream_11
+  - first:
+      213: 7502176043571077765
+    second: scream_12
+  - first:
+      213: 2028810303843748594
+    second: scream_13
+  - first:
+      213: -3353288899564444415
+    second: scream_14
+  - first:
+      213: -7860917209285327248
+    second: scream_15
+  - first:
+      213: 6516762547328924542
+    second: scream_16
+  - first:
+      213: 6562428011681543173
+    second: scream_17
+  - first:
+      213: 1257607668339728380
+    second: scream_18
+  - first:
+      213: -2052626708315615700
+    second: scream_19
+  - first:
+      213: 4890241162286170122
+    second: scream_20
+  - first:
+      213: -4257183099757480161
+    second: scream_21
+  - first:
+      213: -8791979497708579242
+    second: scream_22
+  - first:
+      213: 7206523275533618922
+    second: scream_23
+  - first:
+      213: -156791914009718913
+    second: scream_24
+  - first:
+      213: -5515646657060760953
+    second: scream_25
+  - first:
+      213: -3364297016760432807
+    second: scream_26
+  - first:
+      213: 373460408750937598
+    second: scream_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scream_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 731
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1744cfda16963b20800000000000000
+      internalID: 3113841234540775196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_1
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 726
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff020fefca6535700800000000000000
+      internalID: 527860882343993599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 700
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097f7984445850750800000000000000
+      internalID: 6270564584505472912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 697
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79292d7ffcedcd980800000000000000
+      internalID: -8512684210839711081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 680
+        width: 121
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a57e3280c5666450800000000000000
+      internalID: 6081660224303691168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 700
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fcb39dda1a21be0800000000000000
+      internalID: -1507965157169705073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 658
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3d40ff028565d90800000000000000
+      internalID: -7109398063017045064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 650
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea29436afe75a1d90800000000000000
+      internalID: -7126286773563125074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 667
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ace5095d7e3030800000000000000
+      internalID: 3476353783681556635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 652
+        width: 98
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868ba4529e01a9160800000000000000
+      internalID: 7032952361631529064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 658
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcf95a29662e4020800000000000000
+      internalID: 2327840290521087189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 624
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32420d6529054de0800000000000000
+      internalID: -1349662456980291011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 614
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582ef770d551d1860800000000000000
+      internalID: 7502176043571077765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_13
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 637
+        width: 119
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa4245e838c72c10800000000000000
+      internalID: 2028810303843748594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 647
+        width: 63
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10563382389b671d0800000000000000
+      internalID: -3353288899564444415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 606
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0760bc3727968e290800000000000000
+      internalID: -7860917209285327248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 625
+        width: 124
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b3c1f6201307a50800000000000000
+      internalID: 6516762547328924542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_17
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 564
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504f954e18d621b50800000000000000
+      internalID: 6562428011681543173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 597
+        width: 91
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff5232e28be37110800000000000000
+      internalID: 1257607668339728380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 606
+        width: 92
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e4e5252ea9383e0800000000000000
+      internalID: -2052626708315615700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 591
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a008f007d60add340800000000000000
+      internalID: 4890241162286170122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_21
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 563
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17b82bb6827be4c0800000000000000
+      internalID: -4257183099757480161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_22
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 568
+        width: 119
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656109e8a3d9cf580800000000000000
+      internalID: -8791979497708579242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 487
+        width: 118
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee04cfbcb6b20460800000000000000
+      internalID: 7206523275533618922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_24
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 520
+        width: 117
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f0ccdb596f2ddf0800000000000000
+      internalID: -156791914009718913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_25
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 554
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782925ba69c7473b0800000000000000
+      internalID: -5515646657060760953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 436
+        width: 105
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957861520bd9f41d0800000000000000
+      internalID: -3364297016760432807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scream_27
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 472
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef59549534cce2500800000000000000
+      internalID: 373460408750937598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scream_0: 3113841234540775196
+      scream_1: 527860882343993599
+      scream_10: 2327840290521087189
+      scream_11: -1349662456980291011
+      scream_12: 7502176043571077765
+      scream_13: 2028810303843748594
+      scream_14: -3353288899564444415
+      scream_15: -7860917209285327248
+      scream_16: 6516762547328924542
+      scream_17: 6562428011681543173
+      scream_18: 1257607668339728380
+      scream_19: -2052626708315615700
+      scream_2: 6270564584505472912
+      scream_20: 4890241162286170122
+      scream_21: -4257183099757480161
+      scream_22: -8791979497708579242
+      scream_23: 7206523275533618922
+      scream_24: -156791914009718913
+      scream_25: -5515646657060760953
+      scream_26: -3364297016760432807
+      scream_27: 373460408750937598
+      scream_3: -8512684210839711081
+      scream_4: 6081660224303691168
+      scream_5: -1507965157169705073
+      scream_6: -7109398063017045064
+      scream_7: -7126286773563125074
+      scream_8: 3476353783681556635
+      scream_9: 7032952361631529064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
